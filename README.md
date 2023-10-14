@@ -1,2 +1,2 @@
 # vox-angeles
-VoxAngeles Corpus 
+VoxAngeles Corpus: Phonetic Segmentation of the UCLA Phonetics Lab Archive

@@ -5,6 +5,10 @@ VoxAngeles is a corpus of audited phonetic transcriptions and phone-level alignm
 
 The audited and aligned data (**audited_aligned**) contain manually corrected phone-level alignments and audited phonetic transcriptions for the word-level segmentations provided in the CMU Release of the UCLA Phonetics Lab Archive (Li et al., 2021, https://github.com/xinjli/ucla-phonetic-corpus). The unaudited and aligned data (**unaudited_aligned**) contain force-aligned phone-level alignments and original phonetic transcriptions directly from the UCLA Phonetics Lab Archive. The corpus is free to use under a CC BY-NC 4.0 license. 
 
+To produce the data here, word-level segmentations and their corresponding phonetic transcriptions were first force-aligned using the procedure outlined here: https://github.com/echodroff/ucla-alignments
+
+For the files in **audited_aligned**, the force aligned output was then manually corrected and audited, frequently with close reference to the original field notes hosted on the UCLA Phonetics Lab Archive. To facilitate this process, we used the Praat script praat_scripts/modifyLabelsBoundaries.praat, which  automatically opened the files in the Praat Editor window and saved them after closing.
+
 The corresponding paper is currently under review. Please contact us for more details.
 
 Ladefoged, P., Blankenship, B., Schuh, R. G., Jones, P., Gfroerer, N., Griffiths, E., Harrington, L., Hipp, C., Jones, P., Kaneko, M, Moore-Cantwell, C., Oh, G., Pfister, K., Vaughan, K., Videc, R., Weismuller, S., Weiss, S., White, J., Conlon, S., Lee, WS. J., and Toribio, R. (2009). The UCLA Phonetics Lab Archive.  Los Angeles, CA: UCLA Department of Linguistics. http://archive.phonetics.ucla.edu 

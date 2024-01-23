@@ -1,4 +1,4 @@
-# vox-angeles
+# VoxAngeles
 VoxAngeles Corpus: Phonetic Segmentation of the UCLA Phonetics Lab Archive
 
 VoxAngeles is a corpus of audited phonetic transcriptions and phone-level alignments of the UCLA Phonetics Lab Archive (Ladefoged et al., 2009, http://archive.phonetics.ucla.edu/), along with phonetic measurements including word and phone durations, vowel f0 and vowel formants. The corpus currently contains data from 95 languages across 21 language families. 

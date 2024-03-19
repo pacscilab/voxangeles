@@ -7,14 +7,14 @@
 ### CHANGE ME ###
 
 # Specify the directory with the list of language-specific folders containing TextGrids
-directories$ = "/Users/eleanorchodroff/Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My Drive/ucla_phonetic_corpus/ucla_data_aligned/"
+directories$ = "/Users/eleanor/Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My Drive/ucla_phonetic_corpus/ucla_data_aligned/"
 
 # If the TextGrids are in a subfolder within each langauge-specific folder, specify the name here
 # otherwise set name_of_dir$ = ""
 name_of_dir$ = "/hand_aligned/"
 
 # Specify the output file
-outfile$ = "/Users/eleanorchodroff/Desktop/ucla_phone_durations.tsv"
+outfile$ = "/Users/eleanor/Desktop/voxangeles_durations.tsv"
 
 # Choose a separator (tab$, ",")
 sep$ = tab$

@@ -15,7 +15,7 @@ The repository contains four primary directories:
 2) The ``lrec-coling_analyses`` directory contains data and R processing scripts relevant for the analyses conducted in the LREC-COLING 2024 paper for the comparison between the VoxAngeles and UCLA transcriptions, as well as the VoxAngeles and MFA alignments (``voxangeles_mfa_comparison.R``), the intrinsic f0 analysis (``voxangeles_f0_analysis.R``) and the creation of the map (``map``). 
 
 3) The ``processing`` directory contains two subdirectories and one script:
-+ **forced_alignment**: The documentation of the procedure for force-aligning the CMU Release of the UCLA Phonetics Lab Archive (retrieved May 2023) using the Montreal Forced Aligner (MFA) and the Interlingual-MFA toolkit. The raw TextGrid output from the MFA alignment, as well as relevant scripts and text files are included in this directory.
++ **forced_alignment**: The documentation of the procedure for force-aligning the CMU Release of the UCLA Phonetics Lab Archive (data.tar.gz retrieved July 2023 with 95 languages) using the Montreal Forced Aligner (MFA) and the Interlingual-MFA toolkit. The raw TextGrid output from the MFA alignment, as well as relevant scripts and text files are included in this directory.
 + the modifyLabelsBoundaries.praat script, which was used in processing to automatically open the files in the Praat Editor window and save them after closing
 + **phonetic_extraction**: This contains the Praat scripts for extracting phonetic measurements (duration, corner vowel formants, corner vowel f0)
 
@@ -29,7 +29,7 @@ Ladefoged, P., Blankenship, B., Schuh, R. G., Jones, P., Gfroerer, N., Griffiths
 
 Li, X., Metze, F., Mortensen, D. R., Black, A. W., and Watanabe, S. (2022). Phone inventories and recognition for every language. In Proceedings of the Thirteenth Language Resources and Evaluation Conference (pp. 1061–1067).
 
-### Corpus notes
+## Corpus notes
 The corpus is free to use under a CC BY-NC 4.0 license. 
 
 For use of this corpus, please cite:

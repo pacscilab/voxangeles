@@ -1,0 +1,315 @@
+Language,Ethnologue Code,iso_6393,glottocode,name,level,macroarea,latitude,longitude,id,family_id,parent_id,bookkeeping,iso639P3code,description,markup_description,child_family_count,child_language_count,child_dialect_count,country_ids
+Abaza,ABQ,abq,abaz1241,Abaza,language,Eurasia,44.25,42,abaz1241,abkh1242,abkh1243,FALSE,abq,NA,NA,0,0,3,RU TR
+Abkhaz,ABK,abk,abkh1244,Abkhaz,language,Eurasia,43.056218,41.159115,abkh1244,abkh1242,abkh1243,FALSE,abk,NA,NA,0,0,3,GE RU TR
+Aceh,ACE,ace,achi1257,Acehnese,language,Papunesia,3.90757,96.6032,achi1257,aust1307,cham1327,FALSE,ace,NA,NA,0,0,7,ID
+Adyghe,ADY,ady,adyg1241,Adyghe,language,Eurasia,44,39.33,adyg1241,abkh1242,circ1239,FALSE,ady,NA,NA,0,0,5,IL JO RU SY TR
+Afrikaans,AFR,afr,afri1274,Afrikaans,language,Africa,-22,30,afri1274,indo1319,afri1273,FALSE,afr,NA,NA,0,0,3,BW MZ NA ZA ZM ZW
+Aghul,AGX,agx,aghu1253,Aghul,language,Eurasia,41.9242,47.5843,aghu1253,nakh1245,aghu1260,FALSE,agx,NA,NA,0,0,6,AZ RU
+Akan,AKA,aka,akan1250,Akan,language,Africa,6.34756,-1.33254,akan1250,atla1278,akan1251,FALSE,aka,NA,NA,0,0,10,GH TG
+"Aleut, Eastern",ALE,ale,aleu1260,Aleut,language,North America,52.1228,-174.29,aleu1260,eski1264,aleu1261,FALSE,ale,NA,NA,0,0,2,RU US
+"Aleut, Western",ALE,ale,aleu1260,Aleut,language,North America,52.1228,-174.29,aleu1260,eski1264,aleu1261,FALSE,ale,NA,NA,0,0,2,RU US
+Amharic,AMH,amh,amha1245,Amharic,language,Africa,11.708182,39.543456,amha1245,afro1255,amha1244,FALSE,amh,NA,NA,0,0,5,DJ ET
+Angami,NJM,njm,anga1288,Angami Naga,language,Eurasia,25.6841,93.8668,anga1288,sino1245,anga1287,FALSE,njm,NA,NA,0,0,10,IN
+"Apache, Western",APW,apw,west2615,Western Apache,language,North America,33.8574,-110.123,west2615,atha1245,west2810,FALSE,apw,NA,NA,0,0,0,US
+"Arabic, Egyptian",ARZ,arz,egyp1253,Egyptian Arabic,language,Africa,31,31,egyp1253,afro1255,egyp1254,FALSE,arz,NA,NA,0,0,15,EG IL LY
+"Arabic, Mesopotamian Spoken",ACM,acm,meso1252,Gilit Mesopotamian Arabic,language,Eurasia,33.8178,43.1095,meso1252,afro1255,east2729,FALSE,acm,NA,NA,0,0,4,IQ IR JO SY TR
+"Arabic, Najdi Spoken",ARS,ars,najd1235,Najdi Arabic,language,Eurasia,30.3371,42.1773,najd1235,afro1255,nort3402,FALSE,ars,NA,NA,0,0,9,AE IL IQ JO KW LB SA SY TR YE
+"Arabic, North Levantine Spoken",APC,apc,nort3139,Levantine Arabic,language,Eurasia,34.1709,36.0468,nort3139,afro1255,leva1239,FALSE,apc,NA,NA,0,0,15,IL LB SY TR
+"Arabic, South Levantine Spoken",AJP,ajp,sout3123,South Levantine Arabic,dialect,Eurasia,31.5601,38.0837,sout3123,afro1255,nort3139,FALSE,ajp,NA,NA,0,0,2,IL JO KW PS SA SY
+"Arabic, Tunisian Spoken",AEB,aeb,tuni1259,Tunisian Arabic,language,Africa,33.7966,9.56156,tuni1259,afro1255,malt1259,FALSE,aeb,NA,NA,0,0,9,DZ LY TN
+Archi,AQC,aqc,arch1244,Archi,language,Eurasia,42.3239,46.8267,arch1244,nakh1245,lezg1248,FALSE,aqc,NA,NA,0,0,0,RU
+Armenian,HYE,hye,nucl1235,Eastern Armenian,language,Eurasia,40,45,nucl1235,indo1319,east2768,FALSE,hye,NA,NA,0,0,23,AM AZ GE IR SY TR
+"Arrernte, Eastern",AER,aer,east2379,Eastern Arrernte,language,Australia,-23.3583,135.046,east2379,pama1250,cent2403,FALSE,aer,NA,NA,0,0,4,AU
+Assamese,ASM,asm,assa1263,Assamese,language,Eurasia,26.0876,91.2932,assa1263,indo1319,assa1262,FALSE,asm,NA,NA,0,0,4,BD BT IN
+Avatime,AVN,avn,avat1244,Avatime,language,Africa,6.8688,0.41314,avat1244,atla1278,avat1243,FALSE,avn,NA,NA,0,0,0,GH
+Awutu,AFU,afu,awut1241,Awutu,language,Africa,5.42441,-0.59545,awut1241,atla1278,sout2781,FALSE,afu,NA,NA,0,0,3,GH
+"Azerbaijani, South",AZB,azb,sout2697,South Azerbaijani,language,Eurasia,36.5137,48.4302,sout2697,turk1311,azer1255,FALSE,azb,NA,NA,0,0,18,AF AZ IQ IR TR
+Baatonum,BBA,bba,baat1238,Baatonum,language,Africa,9.63186,2.99607,baat1238,atla1278,sout3164,FALSE,bba,NA,NA,0,0,0,BJ NG
+Badaga,BFQ,bfq,bada1257,Badaga,language,Eurasia,11.3094,76.5974,bada1257,drav1251,bada1263,FALSE,bfq,NA,NA,0,0,0,IN
+Bafut,BFD,bfd,bafu1246,Bafut,language,Africa,6.14153,10.1194,bafu1246,atla1278,mank1258,FALSE,bfd,NA,NA,0,0,4,CM
+Bamanankan,BAM,bam,bamb1269,Bambara,language,Africa,12.9,-7.65,bamb1269,mand1469,east2425,FALSE,bam,NA,NA,0,0,7,CI GN ML SN
+Banawa,BNH,bnh,bana1306,Banawá,language,NA,NA,NA,bana1306,book1242,book1242,TRUE,bnh,NA,NA,0,0,0,NA
+Basque,EUS,eus,basq1248,Basque,language,Eurasia,43.2787,-1.31622,basq1248,NA,NA,FALSE,eus,NA,NA,0,0,11,ES FR
+Bassa,BSQ,bsq,nucl1418,Bassa,language,Africa,7.27501,-11.543,nucl1418,krua1234,bass1262,FALSE,bsq,NA,NA,0,0,6,LR SL
+Bella Coola,BLC,blc,bell1243,Bella Coola,language,North America,52.3448,-126.689,bell1243,sali1255,sali1255,FALSE,blc,NA,NA,0,0,3,CA
+Bemba,BEM,bem,bemb1257,Bemba (Zambia),language,Africa,-10.6122,29.2993,bemb1257,atla1278,bemb1256,FALSE,bem,NA,NA,0,0,12,BW CD MW ZM
+Bengali,BEN,ben,beng1280,Bengali,language,Eurasia,24,90,beng1280,indo1319,gaud1238,FALSE,ben,NA,NA,0,0,14,BD IN NP
+Berber (Tamazight),TZM,tzm,cent2194,Central Moroccan Berber,language,Africa,32.7415,-2.40872,cent2194,afro1255,atla1275,FALSE,tzm,NA,NA,0,0,2,DZ MA
+"Bicolano, Albay",BHK,bhk,alba1269,Inland-Buhi-Daraga Bikol,language,Papunesia,13.1989,123.49,alba1269,aust1307,inla1266,FALSE,bhk,NA,NA,0,0,5,PH
+"Bicolano, Central",BCL,bcl,cent2087,Coastal-Naga Bikol,language,Papunesia,13.7574,123.403,cent2087,aust1307,coas1315,FALSE,bcl,NA,NA,0,0,2,PH
+Berom,BOM,bom,bero1242,Berom,language,Africa,9.67037,8.81221,bero1242,atla1278,iten1244,FALSE,bom,NA,NA,0,0,8,NG
+Bruu,BRV,brv,west2397,Western Bru,language,Eurasia,16.4906,104.754,west2397,aust1305,west2870,FALSE,brv,NA,NA,0,0,0,LA TH
+Bukiyip (Mountain Arapesh),APE,ape,buki1249,Bukiyip,language,Papunesia,-3.47169,143.111,buki1249,nucl1708,buki1250,FALSE,ape,NA,NA,0,0,2,PG
+Bulgarian,BUL,bul,bulg1262,Bulgarian,language,Eurasia,43.3646,25.047,bulg1262,indo1319,mace1252,FALSE,bul,NA,NA,0,0,22,BG GR MD MK RO RS TR UA
+Bura-Pabir,BWR,bwr,bura1292,Bura-Pabir,language,Africa,10.4822,12.3007,bura1292,afro1255,bura1297,FALSE,bwr,NA,NA,0,0,3,NG
+Burarra,BVR,bvr,bura1267,Burarra,language,Australia,-12.3061,134.365,bura1267,mani1293,bure1238,FALSE,bvr,NA,NA,0,0,3,AU
+Burmese,MYA,mya,nucl1310,Burmese,language,Eurasia,20.7926,93.9665,nucl1310,sino1245,nucl1811,FALSE,mya,NA,NA,0,0,3,BD MM TH
+Buryat,BXM,bxm,mong1330,Mongolia Buriat,language,Eurasia,48.7686,109.005,mong1330,mong1349,buri1258,FALSE,bxm,NA,NA,0,0,2,CN MN RU
+Cacua,CBV,cbv,cacu1241,Kakua,language,South America,0.88778,-69.5659,cacu1241,kaku1242,kaku1242,FALSE,cbv,NA,NA,0,0,2,CO
+Cama,EBR,ebr,ebri1238,Ebrié,language,Africa,5.36868,-4.03188,ebri1238,atla1278,poto1250,FALSE,ebr,NA,NA,0,0,0,CI
+Catalan,CAT,cat,stan1289,Catalan,language,Eurasia,41.453,1.569,stan1289,indo1319,sout3183,FALSE,cat,NA,NA,0,0,23,AD ES FR IT
+Cebuano,CEB,ceb,cebu1242,Cebuano,language,Papunesia,8.38799,124.367,cebu1242,aust1307,bisa1268,FALSE,ceb,NA,NA,0,0,4,PH
+Chamalal,CJI,cji,cham1309,Chamalal,language,Eurasia,42.5024,45.995,cham1309,nakh1245,andi1254,FALSE,cji,NA,NA,0,0,4,RU
+Chamorro,CHA,cha,cham1312,Chamorro,language,Papunesia,13.438011,144.74474,cham1312,aust1307,mala1545,FALSE,cha,NA,NA,0,0,2,GU MP
+Chechen,CHE,che,chec1245,Chechen,language,Eurasia,43.5,45.5,chec1245,nakh1245,chec1244,FALSE,che,NA,NA,0,0,3,GE KZ RU
+Cherepon,CPN,cpn,cher1271,Cherepon,language,Africa,6.05387,-0.10955,cher1271,atla1278,guac1241,FALSE,cpn,NA,NA,0,0,0,GH
+Chickasaw,CIC,cic,chic1270,Chickasaw,language,North America,34,-88,chic1270,musk1252,west2614,FALSE,cic,NA,NA,0,0,0,US
+"Chinantec, Ozumacín",CHZ,chz,ozum1235,Ozumacín Chinantec,language,North America,17.6976,-96.2249,ozum1235,otom1299,chin1485,FALSE,chz,NA,NA,0,0,1,MX
+"Chinantec, Palantla",CPA,cpa,pala1351,Palantla Chinantec,language,North America,17.884,-96.3407,pala1351,otom1299,chin1487,FALSE,cpa,NA,NA,0,0,0,MX
+"Chinese, Cantonese",YUE,yue,yuec1235,Yue Chinese,language,Eurasia,23,113,yuec1235,sino1245,yuep1234,FALSE,yue,NA,NA,0,0,22,CN VN
+"Chinese, Hakka",HAK,hak,hakk1236,Hakka Chinese,language,Eurasia,25,116,hakk1236,sino1245,midd1354,FALSE,hak,NA,NA,0,0,21,CN TW
+"Chinese, Mandarin",CMN,cmn,mand1415,Mandarin Chinese,language,Eurasia,40.0209,116.228,mand1415,sino1245,mand1471,FALSE,cmn,NA,NA,0,0,31,CN KP LA MM MN RU TW VN
+"Chinese, Min Nan",NAN,nan,minn1241,Min Nan Chinese,language,Eurasia,24.5,118.17,minn1241,sino1245,coas1318,FALSE,nan,NA,NA,0,0,23,CN TW
+"Chinese, Wu",WUU,wuu,wuch1236,Wu Chinese,language,Eurasia,29.8621,119.682,wuch1236,sino1245,wuhu1234,FALSE,wuu,NA,NA,0,0,29,CN
+Chong,COG,cog,chon1284,Chong of Chanthaburi,language,Eurasia,12.5218,102.514,chon1284,aust1305,west2394,FALSE,cog,NA,NA,0,0,0,KH TH
+Columbia-Wenatchi,COL,col,colu1241,Columbia-Wenatchi,language,North America,48.217,-118.454,colu1241,sali1255,sout1559,FALSE,col,NA,NA,0,0,2,US
+Comanche,COM,com,coma1245,Comanche,language,North America,34,-101,coma1245,utoa1244,cent2130,FALSE,com,NA,NA,0,0,0,US
+Croatian,HRV,hrv,croa1245,Croatian Standard,dialect,Eurasia,45.555,15.982,croa1245,indo1319,east2821,FALSE,hrv,NA,NA,0,0,0,AT BA HR HU IT ME RS SI
+Crow,CRO,cro,crow1244,Crow,language,North America,45.368,-107.874,crow1244,siou1252,miss1252,FALSE,cro,NA,NA,0,0,0,US
+Cuyonon,CYO,cyo,cuyo1237,Cuyonon,language,Papunesia,10.3201,119.3,cuyo1237,aust1307,kuya1251,FALSE,cyo,NA,NA,0,0,0,PH
+Czech,CES,ces,czec1258,Czech,language,Eurasia,49.873398,15.10437,czec1258,indo1319,czec1260,FALSE,ces,NA,NA,0,0,10,AT CZ PL SK
+Dagbani,DAG,dag,dagb1246,Dagbani,language,Africa,9.64745,-0.43227,dagb1246,atla1278,mamp1246,FALSE,dag,NA,NA,0,0,1,GH TG
+Dahalo,DAL,dal,daha1245,Dahalo,language,Africa,-2.1843,40.37,daha1245,afro1255,east2699,FALSE,dal,NA,NA,0,0,0,KE
+"Danghu, Wangurri",DHG,dhg,dhan1270,Dhangu,language,Australia,-11.9493,135.752,dhan1270,pama1250,sout3149,FALSE,dhg,NA,NA,0,0,6,AU
+Danish,DAN,dan,dani1285,Danish,language,Eurasia,54.8655,9.36284,dani1285,indo1319,sout3248,FALSE,dan,NA,NA,0,0,8,DE DK FO GL
+Defaka,AFN,afn,defa1248,Defaka,language,Africa,4.58451,7.50186,defa1248,ijoi1239,ijoi1239,FALSE,afn,NA,NA,0,0,0,NG
+Degema,DEG,deg,dege1246,Degema,language,Africa,4.73373,6.80991,dege1246,atla1278,dege1249,FALSE,deg,NA,NA,0,0,2,NG
+Diriku (Rugciriku),DIU,diu,diri1252,Diriku-Shambyu,language,Africa,-18.1681,20.6678,diri1252,atla1278,kwan1288,FALSE,diu,NA,NA,0,0,2,AO BW NA
+Dutch,NLD,nld,dutc1256,Dutch,language,Eurasia,52,5,dutc1256,indo1319,glob1241,FALSE,nld,NA,NA,0,0,17,AW BE BQ BR CW DE GF GY NL SR SX
+Ebira,IGB,igb,ebir1243,Ebira,language,Africa,8.15516,7.06183,ebir1243,atla1278,ebir1244,FALSE,igb,NA,NA,0,0,3,NG
+Edo,BIN,bin,bini1246,Bini,language,Africa,6.40701,5.70426,bini1246,atla1278,cent2259,FALSE,bin,NA,NA,0,0,0,NG
+Efik,EFI,efi,efik1245,Efik,language,Africa,4.89379,8.38121,efik1245,atla1278,efik1244,FALSE,efi,NA,NA,0,0,0,CM NG
+Emai-luleha-Ora,EMA,ema,emai1241,Emai-Iuleha-Ora,language,Africa,7.09089,5.84494,emai1241,atla1278,emai1243,FALSE,ema,NA,NA,0,0,4,NG
+English,ENG,eng,stan1293,English,language,Eurasia,53,-1,stan1293,indo1319,macr1271,FALSE,eng,NA,NA,0,0,114,AU BM BR BZ CA CC CK CU CX DO FK GB GG GI GP GS GT GY HN IE IM IO JE KY LR MX NF PN SH SR UM US VE ZA
+Estonian,EST,est,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ewe,EWE,ewe,ewee1241,Ewe,language,Africa,6.46061,0.814975,ewee1241,atla1278,ewei1234,FALSE,ewe,NA,NA,0,0,11,GH TG
+"Farsi, Eastern",PRS,prs,dari1249,Dari,language,Eurasia,31.0405,67.3593,dari1249,indo1319,east2745,FALSE,prs,NA,NA,0,0,2,AF IR PK TJ TM
+"Farsi, Western",PES,pes,west2369,Western Farsi,language,Eurasia,32.9,53.3,west2369,indo1319,fars1255,FALSE,pes,NA,NA,0,0,63,AF AZ IQ IR TM TR
+Finnish,FIN,fin,finn1318,Finnish,language,Eurasia,64.7628,25.5577,finn1318,ural1272,nucl1717,FALSE,fin,NA,NA,0,0,7,EE FI NO RU SE
+French,FRA,fra,stan1290,French,language,Eurasia,48,2,stan1290,indo1319,glob1239,FALSE,fra,NA,NA,0,0,20,AD BE CA CH FR GF IT LU MC PM TF US
+"Fulfulde, Adamawa",FUB,fub,adam1253,Adamawa Fulfulde,language,Africa,8.140326,13.077338,adam1253,atla1278,adam1260,FALSE,fub,NA,NA,0,0,6,CM ER ET NG SD TD
+"Fulfulde, Maasina",FFM,ffm,maas1239,Maasina Fulfulde,language,Africa,11.1324,-3.64763,maas1239,atla1278,fula1264,FALSE,ffm,NA,NA,0,0,2,BF CI GH ML MR NE
+"Fulfulde, Nigerian dialect",FUV,fuv,nige1253,Hausa States Fulfulde,language,Africa,10.9972,11.1188,nige1253,atla1278,fula1265,FALSE,fuv,NA,NA,0,0,5,CM NG TD
+"Fulfulde, Western Niger",FUH,fuh,west2454,Western Niger Fulfulde,language,Africa,14.2471,-0.52004,west2454,atla1278,fula1264,FALSE,fuh,NA,NA,0,0,12,BF BJ ML NE NG
+Gã,GAA,gaa,gaaa1244,Ga,language,Africa,5.65488,-0.18598,gaaa1244,atla1278,gada1257,FALSE,gaa,NA,NA,0,0,0,GH
+"Gaelic, Irish",GLE,gle,iris1253,Irish,language,Eurasia,53.2186,-7.61509,iris1253,indo1319,mode1265,FALSE,gle,NA,NA,0,0,3,GB IE
+"Gaelic, Scottish",GLA,gla,scot1245,Scottish Gaelic,language,Eurasia,56.7574,-5.24366,scot1245,indo1319,east2734,FALSE,gla,NA,NA,0,0,2,GB
+Ganda,LUG,lug,gand1255,Ganda,language,Africa,0.66884,32.15153,gand1255,atla1278,nort3220,FALSE,lug,NA,NA,0,0,4,UG
+Georgian,KAT,kat,nucl1302,Georgian,language,Eurasia,41.850397,43.78613,nucl1302,kart1248,geor1253,FALSE,kat,NA,NA,0,0,27,AM AZ GE IR RU TR
+"German, Standard",DEU,deu,stan1295,German,language,Eurasia,48.649,12.4676,stan1295,indo1319,glob1243,FALSE,deu,NA,NA,0,0,3,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK
+Gikuyu,KIK,kik,kiku1240,Kikuyu,language,Africa,-0.29005,36.719,kiku1240,atla1278,giku1234,FALSE,kik,NA,NA,0,0,5,KE
+Gimi,GIM,gim,gimi1243,Gimi (Eastern Highlands),language,Papunesia,-6.42097,145.214,gimi1243,nucl1709,fore1273,FALSE,gim,NA,NA,0,0,2,PG
+Greek,ELL,ell,mode1248,Modern Greek,language,Eurasia,38.36,23.13,mode1248,indo1319,nucl1783,FALSE,ell,NA,NA,0,0,30,AL BG CY EG GR IT MK RO TR UA
+"Gua, Anum",GWX,gwx,guaa1238,Gua,language,Africa,6.52106,0.16932,guaa1238,atla1278,guac1241,FALSE,gwx,NA,NA,0,0,2,GH
+"Guarani, Paraguayan",GUG,gug,para1311,Paraguayan Guaraní,language,South America,-25.60551,-57.08816,para1311,tupi1275,para1319,FALSE,gug,NA,NA,0,0,3,AR PY
+Guguyimidjir,KKY,kky,gugu1255,Guugu Yimidhirr,language,Australia,-14.9424,144.831,gugu1255,pama1250,yimi1234,FALSE,kky,NA,NA,0,0,0,AU
+Gujarati,GUJ,guj,guja1252,Gujarati,language,Eurasia,22.687,71.0962,guja1252,indo1319,guja1256,FALSE,guj,NA,NA,0,0,6,BD IN PK
+Gumatj,GNN,gnn,guma1253,Gumatj,language,Australia,-12.25254,136.83042,guma1253,pama1250,west2439,FALSE,gnn,NA,NA,0,0,1,AU
+Gunwinggu (Kunwinjku),GUP,gup,gunw1252,Bininj Kun-Wok,language,Australia,-12.3398,133.358,gunw1252,gunw1250,gunw1250,FALSE,gup,NA,NA,0,0,8,AU
+Gurdjar (Kurtjar),GDJ,gdj,gurd1238,Gurdjar,language,Australia,-17.1653,141.145,gurd1238,pama1250,ribg1235,FALSE,gdj,NA,NA,0,0,0,AU
+Hadza,HTS,hts,hadz1240,Hadza,language,Africa,-3.83115,35.0458,hadz1240,NA,NA,FALSE,hts,NA,NA,0,0,0,TZ
+Hani,HNI,hni,hani1248,Hani,language,Eurasia,22.67753,102.851673333,hani1248,sino1245,haya1251,FALSE,hni,NA,NA,0,0,9,CN LA VN
+Haiǁom,HGM,hgm,haio1238,Hai//om-Akhoe,language,Africa,-19.7637,17.0299,haio1238,khoe1240,nort3245,FALSE,hgm,NA,NA,0,0,3,BW NA ZA
+Hausa,HAU,hau,haus1257,Hausa,language,Africa,11.1513,8.7804,haus1257,afro1255,west2718,FALSE,hau,NA,NA,0,0,19,BF BJ CM NE NG TD
+Hawaiian,HAW,haw,hawa1245,Hawaiian,language,Papunesia,19.6297,-155.43,hawa1245,aust1307,east2896,FALSE,haw,NA,NA,0,0,0,US
+Hebrew,HEB,heb,hebr1245,Modern Hebrew,language,Eurasia,31.1056,35.0179,hebr1245,afro1255,hebr1246,FALSE,heb,NA,NA,0,0,2,IL JO LB PS SY
+Hiligaynon,HIL,hil,hili1240,Hiligaynon,language,Papunesia,10.4018,122.974,hili1240,aust1307,capi1240,FALSE,hil,NA,NA,0,0,4,PH
+Hindi,HIN,hin,hind1269,Hindi,language,Eurasia,25,77,hind1269,indo1319,hind1270,FALSE,hin,NA,NA,0,0,4,BD BT IN NP
+Hmong Daw,MWW,mww,hmon1333,Hmong Daw,language,Eurasia,21.5461,103.164,hmon1333,hmon1336,firs1234,FALSE,mww,NA,NA,0,0,4,CN LA TH VN
+Hmong Njua,BLU,blu,hmon1338,Hmong Njua (Retired),language,NA,NA,NA,hmon1338,book1242,book1242,TRUE,blu,NA,NA,0,0,0,NA
+Hungarian,HUN,hun,hung1274,Hungarian,language,Eurasia,46.9068585714,19.6555271429,hung1274,ural1272,hung1287,FALSE,hun,NA,NA,0,0,10,AT HR HU RO RS SI SK UA
+ǂHua,HUC,huc,hoaa1235,Amkoe,language,Africa,-23.93447,24.69828,hoaa1235,kxaa1236,kxaa1236,FALSE,huc,NA,NA,0,0,3,BW
+Ibibio,IBB,ibb,ibib1240,Ibibio,language,Africa,5.15279,7.86688,ibib1240,atla1278,efik1244,FALSE,ibb,NA,NA,0,0,4,NG
+Icelandic,ISL,isl,icel1247,Icelandic,language,Eurasia,63.4837,-19.0212,icel1247,indo1319,icel1246,FALSE,isl,NA,NA,0,0,0,IS
+Idoma,IDU,idu,idom1241,Idoma,language,Africa,7.19139,7.71261,idom1241,atla1278,nucl1732,FALSE,idu,NA,NA,0,0,4,NG
+Igbo,IBO,ibo,nucl1417,Igbo,language,Africa,4.62705,7.23441,nucl1417,atla1278,igbo1259,FALSE,ibo,NA,NA,0,0,17,NG
+Ikwere,IKW,ikw,ikwe1242,Ikwere,language,Africa,5.04333,6.86651,ikwe1242,atla1278,igbo1259,FALSE,ikw,NA,NA,0,0,18,NG
+Ilocano,ILO,ilo,ilok1237,Iloko,language,Papunesia,15.9361,120.993,ilok1237,aust1307,nort3238,FALSE,ilo,NA,NA,0,0,0,PH
+Iraqw,IRK,irk,iraq1241,Iraqw,language,Africa,-4.19948,35.2939,iraq1241,afro1255,iraq1240,FALSE,irk,NA,NA,0,0,1,TZ
+Isekiri,ITS,its,isek1239,Isekiri,language,Africa,5.81898,5.5862,isek1239,atla1278,edek1238,FALSE,its,NA,NA,0,0,0,NG
+Isoko,ISO,iso,isok1239,Isoko,language,Africa,5.52889,6.24682,isok1239,atla1278,sout2805,FALSE,iso,NA,NA,0,0,22,NG
+Itelmen,ITL,itl,itel1242,West Itelmen,language,Eurasia,56.046173,156.30704,itel1242,chuk1271,kamc1243,FALSE,itl,NA,NA,0,0,2,RU
+Izon,IJC,ijc,izon1238,Izon,language,Africa,5.17986,5.51702,izon1238,ijoi1239,west2446,FALSE,ijc,NA,NA,0,0,27,NG
+Javanese,JAV,jav,java1254,Javanese,language,Papunesia,-7.001,109.287,java1254,aust1307,mode1251,FALSE,jav,NA,NA,0,0,24,ID MY
+Jingpho,KAC,kac,kach1280,Southern Jinghpaw,language,Eurasia,25.4634,97.3278,kach1280,sino1245,jing1260,FALSE,kac,NA,NA,0,0,5,CN MM
+Jola-Fonyi,DYO,dyo,jola1263,Jola-Fonyi,language,Africa,12.75752,-15.7354766667,jola1263,atla1278,jola1264,FALSE,dyo,NA,NA,0,0,5,GM GW SN
+Juǀ'hoan (Zhu'oasi),KTZ,ktz,juho1239,South-Eastern Ju,language,Africa,-19.688,20.7673,juho1239,kxaa1236,juku1256,FALSE,ktz,NA,NA,0,0,3,BW NA
+Kabardian,KBD,kbd,kaba1278,Kabardian,language,Eurasia,43.5082,43.3918,kaba1278,abkh1242,circ1239,FALSE,kbd,NA,NA,0,0,1,RU TR
+Kabuverdianu (Cape Verde Creole),KEA,kea,kabu1256,Kabuverdianu,language,Africa,15.0586,-23.6148,kabu1256,indo1319,uppe1458,FALSE,kea,NA,NA,0,0,3,CV
+Kaititj,GBB,gbb,kayt1238,Kaytetye,language,Australia,-21.5844,133.602,kayt1238,pama1250,aran1267,FALSE,gbb,NA,NA,0,0,0,AU
+Kalabari,IJN,ijn,kala1381,Kalabari,language,Africa,4.53194,6.69539,kala1381,ijoi1239,kaki1246,FALSE,ijn,NA,NA,0,0,0,NG
+Kala Lagaw Ya,MWP,mwp,kala1377,Kala Lagaw Ya,language,Australia,-10.6748,142.196,kala1377,pama1250,pama1250,FALSE,mwp,NA,NA,0,0,4,AU
+Kamba,KAM,kam,kamb1297,Kamba (Kenya),language,Africa,-1.60827,37.9532,kamb1297,atla1278,kamb1323,FALSE,kam,NA,NA,0,0,4,KE
+Kambari (Tsishingini),TSW,tsw,tsis1238,Salka-Tsishingini,language,Africa,10.2882,5.11073,tsis1238,atla1278,east2739,FALSE,tsw,NA,NA,0,0,1,NG
+Kanite,KMU,kmu,kani1286,Kanite,language,Papunesia,-6.38841,145.556,kani1286,nucl1709,kama1374,FALSE,kmu,NA,NA,0,0,0,PG
+Kannada,KAN,kan,nucl1305,Kannada,language,Eurasia,13.5878,76.1198,nucl1305,drav1251,kann1255,FALSE,kan,NA,NA,0,0,12,IN
+Kapampangan,PAM,pam,pamp1243,Pampanga,language,Papunesia,14.9603,120.502,pamp1243,aust1307,cent2080,FALSE,pam,NA,NA,0,0,0,PH
+Karakalpak,KAA,kaa,kara1467,Kara-Kalpak,language,Eurasia,39.98005,63.32233,kara1467,turk1311,sout2701,FALSE,kaa,NA,NA,0,0,2,AF KG KZ TM UZ
+Kelabit,KZI,kzi,kela1258,Kelabit,language,Papunesia,3.31783,115.428,kela1258,aust1307,kela1257,FALSE,kzi,NA,NA,0,0,5,BN ID MY
+Kele,SBC,sbc,kele1258,Kele (Papua New Guinea),language,Papunesia,-2.09163,147.064,kele1258,aust1307,kurt1251,FALSE,sbc,NA,NA,0,0,0,PG
+Khana,OGO,ogo,khan1278,Khana,language,Africa,4.70908,7.44363,khan1278,atla1278,taik1252,FALSE,ogo,NA,NA,0,0,6,NG
+Khmer (Cambodian),KHM,khm,cent1989,Central Khmer,language,Eurasia,12.0515,105.015,cent1989,aust1305,khme1253,FALSE,khm,NA,NA,0,0,3,KH LA TH VN
+Kirike,OKR,okr,kiri1254,Kirike,language,Africa,4.41126,6.98938,kiri1254,ijoi1239,kaki1246,FALSE,okr,NA,NA,0,0,0,NG
+Kirundi (Rundi),RUN,run,rund1242,Rundi,language,Africa,-2.94,29.97,rund1242,atla1278,rund1244,FALSE,run,NA,NA,0,0,0,BI CD RW TZ UG
+Kissi,KQS,kqs,nort2765,Northern Kissi,language,Africa,8.7283,-10.4063,nort2765,atla1278,kiss1245,FALSE,kqs,NA,NA,0,0,4,GN LR SL
+Klao,KLU,klu,klao1243,Klao,language,Africa,5.05,-8.85,klao1243,krua1234,klao1242,FALSE,klu,NA,NA,0,0,4,LR SL
+Kom,BKM,bkm,komc1235,Kom (Cameroon),language,Africa,6.2596,10.3348,komc1235,atla1278,komk1239,FALSE,bkm,NA,NA,0,0,1,CM
+Konkani,KNN,knn,konk1267,Konkan Marathi,language,Eurasia,18.404,73.994,konk1267,indo1319,west2963,FALSE,knn,NA,NA,0,0,15,IN
+Kono,KNO,kno,kono1268,Kono (Sierra Leone),language,Africa,8.67039,-10.9214,kono1268,mand1469,vaik1238,FALSE,kno,NA,NA,0,0,2,GN SL
+Koonzime,OZM,ozm,koon1245,Koonzime,language,Africa,3.25933,13.54152,koon1245,atla1278,njem1234,FALSE,ozm,NA,NA,0,0,2,CM
+"Korean, Cheju",KOR,kor,kore1280,Korean,language,Eurasia,37.54,126.98,kore1280,kore1284,kore1284,FALSE,kor,NA,NA,0,0,13,CN KP KR RU
+"Korean, Seoul",KOR,kor,kore1280,Korean,language,Eurasia,37.54,126.98,kore1280,kore1284,kore1284,FALSE,kor,NA,NA,0,0,13,CN KP KR RU
+Krache,KYE,kye,krac1238,Krache,language,Africa,7.93475,0.01925,krac1238,atla1278,rive1262,FALSE,kye,NA,NA,0,0,0,GH
+Krio,KRI,kri,krio1253,Krio,language,Africa,10.8811,-14.3204,krio1253,indo1319,west2851,FALSE,kri,NA,NA,0,0,2,GM GN SL SN US
+Kurdish,CKB,ckb,cent1972,Central Kurdish,language,Eurasia,35.6539,45.8077,cent1972,indo1319,kurd1259,FALSE,ckb,NA,NA,0,0,13,IQ IR
+Kutep,KUB,kub,kute1248,Kutep,language,Africa,7.07479,10.0916,kute1248,atla1278,juku1257,FALSE,kub,NA,NA,0,0,5,CM NG
+Kwangali,KWN,kwn,kwan1273,Kwangali,language,Africa,-17.9026,19.256,kwan1273,atla1278,kwan1288,FALSE,kwn,NA,NA,0,0,0,AO NA
+Kwanyama,KUA,kua,kuan1247,Kuanyama,language,Africa,-17.7176,16.58,kuan1247,atla1278,ndon1253,FALSE,kua,NA,NA,0,0,0,AO NA
+Ladino,LAD,lad,ladi1251,Ladino,language,Eurasia,41.205,28.6632,ladi1251,indo1319,sout3200,FALSE,lad,NA,NA,0,0,3,AL BA BG DZ GR HR IL MA MK PR RO RS TR US
+Lakota,LKT,lkt,lako1247,Lakota,language,North America,46.3699,-103.95,lako1247,siou1252,siou1253,FALSE,lkt,NA,NA,0,0,1,CA US
+Larteh,LAR,lar,lart1238,Larteh,language,Africa,5.9367,-0.07822,lart1238,atla1278,hill1256,FALSE,lar,NA,NA,0,0,0,GH
+Latvian,LAV,lav,latv1249,Latvian,language,Eurasia,56.826108,24.309118,latv1249,indo1319,east2280,FALSE,lav,NA,NA,0,0,6,BY EE LT LV RU
+Lendu,LED,led,lend1245,Lendu,language,Africa,2.1898,30.6794,lend1245,cent2225,bale1255,FALSE,led,NA,NA,0,0,6,CD UG
+Limba,LIA,lia,west2450,West-Central Limba,language,Africa,9.52392,-12.3138,west2450,atla1278,limb1267,FALSE,lia,NA,NA,0,0,2,SL
+Lithuanian,LIT,lit,lith1251,Lithuanian,language,Eurasia,55.1429,23.9601,lith1251,indo1319,east2280,FALSE,lit,NA,NA,0,0,9,BY LT LV PL RU
+Logba,LGQ,lgq,logb1245,Ikpana,language,Africa,6.92838,0.43068,logb1245,atla1278,nato1234,FALSE,lgq,NA,NA,0,0,0,GH
+Luo (Dholuo),LUO,luo,luok1236,Luo (Kenya and Tanzania),language,Africa,-0.93296,34.4896,luok1236,nilo1247,adho1242,FALSE,luo,NA,NA,0,0,0,KE TZ
+Mabaan,MFZ,mfz,maba1273,Mabaan,language,Africa,9.81455,33.5404,maba1273,nilo1247,maba1272,FALSE,mfz,NA,NA,0,0,3,SD SS
+Macedonian,MKD,mkd,mace1250,Macedonian,language,Eurasia,41.5957,21.7932,mace1250,indo1319,mace1252,FALSE,mkd,NA,NA,0,0,17,AL BG GR MK RS
+Makassarese,MAK,mak,maka1311,Makasar,language,Papunesia,-5.65551,119.838,maka1311,aust1307,nucl1727,FALSE,mak,NA,NA,0,0,3,ID
+"Malay, Pattani",MFA,mfa,patt1249,Kelantan-Pattani Malay,language,Eurasia,6.38148,101.41,patt1249,aust1307,keda1253,FALSE,mfa,NA,NA,0,0,6,MY TH
+Malayalam,MAL,mal,mala1464,Malayalam,language,Eurasia,9.59208,76.7651,mala1464,drav1251,mala1541,FALSE,mal,NA,NA,0,0,13,IN
+Maltese,MLT,mlt,malt1254,Maltese,language,Eurasia,35.8884,14.4508,malt1254,afro1255,malt1259,FALSE,mlt,NA,NA,0,0,7,MT
+Marathi,MAR,mar,mara1378,Marathi,language,Eurasia,17.9344,76.6665,mara1378,indo1319,mode1268,FALSE,mar,NA,NA,0,0,4,IN
+"Marghi, Central",MRT,mrt,marg1265,Marghi Central,language,Africa,10.93854,13.0521,marg1265,afro1255,bium1270,FALSE,mrt,NA,NA,0,0,4,NG
+"Mazatec, Jalapa de Diaz",MAJ,maj,jala1237,Jalapa De Díaz Mazatec,language,North America,18.0803,-96.4977,jala1237,otom1299,vall1259,FALSE,maj,NA,NA,0,0,0,MX
+Mbukushu,MHW,mhw,mbuk1240,Mbukushu,language,Africa,-17.6827,22.5026,mbuk1240,atla1278,mash1271,FALSE,mhw,NA,NA,0,0,0,AO BW NA ZM
+Melpa,MED,med,melp1238,Melpa,language,Papunesia,-5.62644,144.34,melp1238,nucl1709,melp1239,FALSE,med,NA,NA,0,0,1,PG
+Mende,MEN,men,mend1266,Mende (Sierra Leone),language,Africa,7.90935,-10.9926,mend1266,mand1469,mend1265,FALSE,men,NA,NA,0,0,4,GN LR SL
+Meriam,ULK,ulk,meri1244,Meriam,language,Papunesia,-9.59575,143.773,meri1244,east2503,east2503,FALSE,ulk,NA,NA,0,0,4,AU
+Mingrelian,XMF,xmf,ming1252,Mingrelian,language,Eurasia,42.5129,41.8719,ming1252,kart1248,zann1245,FALSE,xmf,NA,NA,0,0,2,GE
+"Mixtec, Coatzospan",MIZ,miz,coat1241,Coatzospan Mixtec,language,North America,18.048748,-96.763633,coat1241,otom1299,nort3199,FALSE,miz,NA,NA,0,0,0,MX
+"Mixtec, Diuxi-Tilantongo",XTD,xtd,diux1235,Diuxi-Tilantongo Mixtec,language,North America,17.3596,-97.3861,diux1235,otom1299,east2735,FALSE,xtd,NA,NA,0,0,0,MX
+Mizo,LUS,lus,lush1249,Mizo,language,Eurasia,22.6138,92.6247,lush1249,sino1245,mizo1244,FALSE,lus,NA,NA,0,0,6,BD IN MM
+Mon,MNW,mnw,monn1252,Mon,language,Eurasia,15.49394,98.122465,monn1252,aust1305,moni1258,FALSE,mnw,NA,NA,0,0,3,MM TH
+Mono (Numic) Eastern,MNR,mnr,mono1275,Mono (USA),language,North America,37.1935,-119.347,mono1275,utoa1244,west2621,FALSE,mnr,NA,NA,0,0,0,US
+Montana Salish,FLA,fla,kali1308,Kalispel-Pend d'Oreille,language,North America,47.5825,-114.19,kali1308,sali1255,kali1307,FALSE,fla,NA,NA,0,0,2,US
+Mori Atas,MZQ,mzq,mori1269,Mori Atas,language,Papunesia,-2.2555,121.035,mori1269,aust1307,inte1258,FALSE,mzq,NA,NA,0,0,1,ID
+Moru,MGD,mgd,moru1253,Moru,language,Africa,5.1232,30.3287,moru1253,cent2225,moru1252,FALSE,mgd,NA,NA,0,0,7,SS
+Mpi,MPZ,mpz,mpii1239,Mpi,language,Eurasia,18.1717,100.21,mpii1239,sino1245,bika1252,FALSE,mpz,NA,NA,0,0,0,TH
+Murrinh-Patha,MWF,mwf,murr1258,Murriny Patha,language,Australia,-14.74852,129.70152,murr1258,sout2772,sout2772,FALSE,mwf,NA,NA,0,0,3,AU
+"Naga, Angami",NJM,njm,anga1288,Angami Naga,language,Eurasia,25.6841,93.8668,anga1288,sino1245,anga1287,FALSE,njm,NA,NA,0,0,10,IN
+"Nahuatl, Isthmus-Mecayapan",NHX,nhx,isth1242,Isthmus-Mecayapan Nahuatl,language,North America,18.2,-94.7547,isth1242,utoa1244,isth1245,FALSE,nhx,NA,NA,0,0,0,MX
+Nama,NAQ,naq,nama1264,Nama (Namibia),language,Africa,-25.0747,17.9767,nama1264,khoe1240,nort3245,FALSE,naq,NA,NA,0,0,6,BW NA ZA
+Nangikurrunggurr,NAM,nam,nang1259,Nangikurrunggurr,language,Australia,-14.268,131.237,nang1259,sout2772,sout2772,FALSE,nam,NA,NA,0,0,2,AU
+Navajo,NAV,nav,nava1243,Navajo,language,North America,36.33,-109.38,nava1243,atha1245,west2810,FALSE,nav,NA,NA,0,0,0,US
+Ndonga,NDO,ndo,ndon1254,Ndonga,language,Africa,-17.22,17.35,ndon1254,atla1278,kwam1257,FALSE,ndo,NA,NA,0,0,2,AO NA
+Nepali,NEP,nep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newari,NEW,new,newa1246,Kathmandu Valley Newari,language,Eurasia,27.67,85.326,newa1246,sino1245,newa1247,FALSE,new,NA,NA,0,0,7,IN NP
+Ngie,NGJ,ngj,ngie1242,Ngie,language,Africa,5.93852,9.79389,ngie1242,atla1278,ngie1243,FALSE,ngj,NA,NA,0,0,1,CM
+Ngizim,NGI,ngi,ngiz1242,Ngizim,language,Africa,12.1051,11.0178,ngiz1242,afro1255,ngiz1243,FALSE,ngi,NA,NA,0,0,0,NG
+Ngwe,NWE,nwe,ngwe1238,Ngwe,language,Africa,5.49787,9.9028,ngwe1238,atla1278,bamb1272,FALSE,nwe,NA,NA,0,0,0,CM
+Ngwo,NGN,ngn,ngwo1241,Ngwo,language,Africa,6.17739,9.84369,ngwo1241,atla1278,momo1242,FALSE,ngn,NA,NA,0,0,8,CM
+Nisenan (Southern Maidu),NSZ,nsz,nise1244,Nisenan,language,North America,38.047,-120.393,nise1244,maid1262,maid1262,FALSE,nsz,NA,NA,0,0,0,US
+Nkonya,NKO,nko,nkon1248,Nkonya,language,Africa,7.20316,0.3209,nkon1248,atla1278,nkon1245,FALSE,nko,NA,NA,0,0,0,GH
+"Norwegian, Bokmål",NOB,nob,norw1259,Norwegian Bokmål,dialect,Eurasia,61.112,8.886,norw1259,indo1319,norw1258,FALSE,nob,NA,NA,0,0,0,NO
+"Norwegian, Nynorsk",NNO,nno,norw1262,Norwegian Nynorsk,dialect,Eurasia,NA,NA,norw1262,indo1319,norw1258,FALSE,nno,NA,NA,0,0,0,NA
+Nunggubuyu,NUY,nuy,nung1290,Wubuy,language,Australia,-14.2623,135.753,nung1290,gunw1250,wubu1239,FALSE,nuy,NA,NA,0,0,0,AU
+Nyangumarta,NNA,nna,nyan1301,Nyangumarta,language,Australia,-20.6271,121.391,nyan1301,pama1250,marr1265,FALSE,nna,NA,NA,0,0,2,AU
+Nzema,NZI,nzi,nzim1238,Nzima,language,Africa,5.1785,-2.81123,nzim1238,atla1278,jwir1243,FALSE,nzi,NA,NA,0,0,1,CI GH
+Obulom,OBU,obu,obul1239,Obulom-Ochichi,language,Africa,4.72908,7.11671,obul1239,atla1278,kugb1242,FALSE,obu,NA,NA,0,0,2,NG
+Okinawan,RYU,ryu,cent2126,Central Okinawan,language,Eurasia,26.14854,127.7816,cent2126,japo1237,okin1244,FALSE,ryu,NA,NA,0,0,4,JP
+Oromo,GAX,gax,bora1271,Borana-Arsi-Guji Oromo,language,Africa,1.05676,37.882,bora1271,afro1255,cent2303,FALSE,gax,NA,NA,0,0,8,ET KE SO
+"Oromo, West Central",GAZ,gaz,west2721,West Central Oromo,language,Africa,8.81391,36.7365,west2721,afro1255,nucl1736,FALSE,gaz,NA,NA,0,0,3,ET SD
+Oro Win,ORW,orw,orow1243,Oro Win,language,South America,-10.737,-64.0299,orow1243,chap1271,wari1267,FALSE,orw,NA,NA,0,0,0,BR
+Pangasinan,PAG,pag,pang1290,Pangasinan,language,Papunesia,15.9377,120.365,pang1290,aust1307,west2550,FALSE,pag,NA,NA,0,0,0,PH
+Panjabi,PAN,pan,panj1256,Eastern Panjabi,language,Eurasia,30.0368,75.6702,panj1256,indo1319,east2727,FALSE,pan,NA,NA,0,0,8,BD IN PK
+Pashto,PBU,pbu,nort2646,Northern Pashto,language,Eurasia,34,71.33,nort2646,indo1319,nucl1276,FALSE,pbu,NA,NA,0,0,11,AF IN PK
+"Pidgin, Nigerian",PCM,pcm,nige1257,Nigerian Pidgin,language,Africa,9.65873,4.21068,nige1257,indo1319,nige1258,FALSE,pcm,NA,NA,0,0,0,NG
+Pirahã,MYP,myp,pira1253,Pirahã,language,South America,-6.77713,-61.8167,pira1253,NA,NA,FALSE,myp,NA,NA,0,0,1,BR
+Pitjantjatjara,PJT,pjt,pitj1243,Pitjantjatjara,language,Australia,-26.9704,131.357,pitj1243,pama1250,tjar1234,FALSE,pjt,NA,NA,0,0,0,AU
+Plautdietsch,PDT,pdt,plau1238,Plautdietsch,language,North America,49.578028,-109.353868,plau1238,indo1319,east2291,FALSE,pdt,NA,NA,0,0,20,CA
+Polish,POL,pol,poli1260,Polish,language,Eurasia,51.8439,18.6255,poli1260,indo1319,poli1262,FALSE,pol,NA,NA,0,0,3,BY CZ DE LT PL RU SK UA
+"Popoloca, San Felipe Otlaltepec",POW,pow,sanf1264,San Felipe Otlaltepec Popoloca,language,North America,18.3594,-97.7432,sanf1264,otom1299,tepe1282,FALSE,pow,NA,NA,0,0,2,MX
+Portuguese,POR,por,port1283,Portuguese,language,Eurasia,39.91,-8.1,port1283,indo1319,braz1247,FALSE,por,NA,NA,0,0,6,AD AR BO BR CO ES FR GF GY PE PT PY SR UY VE
+Provençal,PRV,prv,prov1247,Provençal (Retired),language,NA,NA,NA,prov1247,book1242,book1242,TRUE,prv,NA,NA,0,0,0,NA
+Pulaar,FUC,fuc,pula1263,Pulaar,language,Africa,13.8694,-13.4482,pula1263,atla1278,fula1264,FALSE,fuc,NA,NA,0,0,2,GM GN GW ML MR SN
+Pular,FUF,fuf,pula1262,Pular,language,Africa,12.1826,-12.7338,pula1262,atla1278,fula1264,FALSE,fuf,NA,NA,0,0,3,GN GW ML SL SN
+Qʼeqchiʼ,KEK,kek,kekc1242,Kekchí,language,North America,15.3788,-89.2452,kekc1242,maya1287,grea1276,FALSE,kek,NA,NA,0,0,0,BZ GT SV
+"Quechua, South Bolivian",QUH,quh,sout2991,South Bolivian Quechua,language,South America,-20.9201,-66.3331,sout2991,quec1387,boli1262,FALSE,quh,NA,NA,0,0,6,AR BO CL
+Romanian,RON,ron,roma1327,Romanian,language,Eurasia,46.3913,24.2256,roma1327,indo1319,east2865,FALSE,ron,NA,NA,0,0,9,BG HU MD RO RS UA
+Rutul,RUT,rut,rutu1240,Rutul,language,Eurasia,41.6187,47.3244,rutu1240,nakh1245,west2428,FALSE,rut,NA,NA,0,0,3,AZ RU
+Sandawe,SAD,sad,sand1273,Sandawe,language,Africa,-5.26918,35.4808,sand1273,NA,NA,FALSE,sad,NA,NA,0,0,0,TZ
+Saurashtra,SAZ,saz,saur1248,Saurashtra,language,Eurasia,9.99172,77.9427,saur1248,indo1319,guja1256,FALSE,saz,NA,NA,0,0,2,IN
+Schwyzerdütsch,GSW,gsw,swis1247,Central Alemannic,language,Eurasia,47.0516,8.46419,swis1247,indo1319,sout3294,FALSE,gsw,NA,NA,0,0,17,AT CH DE FR IT LI
+Sekpele,LIP,lip,sekp1241,Sekpele,language,Africa,7.16751,0.5886,sekp1241,atla1278,likp1239,FALSE,lip,NA,NA,0,0,2,GH
+Seneca,SEE,see,sene1264,Seneca,language,North America,42.56,-77.53,sene1264,iroq1247,nort2947,FALSE,see,NA,NA,0,0,0,CA US
+Serbian,SRP,srp,serb1264,Serbian Standard,dialect,Eurasia,44.3238,21.9192,serb1264,indo1319,east2821,FALSE,srp,NA,NA,0,0,0,AL BA BG HR HU ME MK RO RS
+Serer-Sine,SRR,srr,sere1260,Sereer,language,Africa,13.8941,-16.3916,sere1260,atla1278,peul1234,FALSE,srr,NA,NA,0,0,8,GM SN
+Serrano,SER,ser,serr1255,Serrano,language,North America,33.9479,-116.772,serr1255,utoa1244,serr1254,FALSE,ser,NA,NA,0,0,3,US
+Setswana,TSN,tsn,tswa1253,Tswana,language,Africa,-24.368,24.7587,tswa1253,atla1278,cent2406,FALSE,tsn,NA,NA,0,0,13,BW NA ZA ZM ZW
+Shilluk,SHK,shk,shil1265,Shilluk,language,Africa,9.85472,31.7926,shil1265,nilo1247,nort2814,FALSE,shk,NA,NA,0,0,3,SD SS
+Shona,SNA,sna,shon1251,Shona,language,Africa,-17.20849,29.75725,shon1251,atla1278,cent2310,FALSE,sna,NA,NA,0,0,27,BW ZA ZM ZW
+Shuswap,SHS,shs,shus1248,Shuswap,language,North America,50.8734,-119.667,shus1248,sali1255,nort2948,FALSE,shs,NA,NA,0,0,2,CA
+Sindhi,SND,snd,sind1272,Sindhi,language,Eurasia,26,69,sind1272,indo1319,sind1282,FALSE,snd,NA,NA,0,0,9,IN PK
+Sinhalese,SIN,sin,sinh1246,Sinhala,language,Eurasia,8,81,sinh1246,indo1319,sinh1247,FALSE,sin,NA,NA,0,0,1,LK
+Sissala,SLD,sld,siss1242,Sissala of Burkina Faso,language,Africa,11.0916,-2.38217,siss1242,atla1278,nort3229,FALSE,sld,NA,NA,0,0,0,BF GH
+Siwu,AKP,akp,siwu1238,Siwu,language,Africa,7.23811,0.44362,siwu1238,atla1278,lele1263,FALSE,akp,NA,NA,0,0,2,GH
+Slovak,SLK,slk,slov1269,Slovak,language,Eurasia,48.545705,18.78479,slov1269,indo1319,czec1260,FALSE,slk,NA,NA,0,0,0,AT CZ HU PL RS SK UA
+Slovenian,SLV,slv,slov1268,Slovenian,language,Eurasia,46.2543,14.7766,slov1268,indo1319,west2804,FALSE,slv,NA,NA,0,0,8,AT HR HU IT SI
+Somali,SOM,som,soma1255,Somali,language,Africa,4.778704,45.152856,soma1255,afro1255,east2653,FALSE,som,NA,NA,0,0,5,DJ ET KE SO
+Songhay,HMB,hmb,humb1243,Humburi Senni Songhay,language,Africa,15.2948,-1.69301,humb1243,song1307,east2431,FALSE,hmb,NA,NA,0,0,2,BF ML
+"Sotho, Southern",SOT,sot,sout2807,Southern Sotho,language,Africa,-28.78,27.89,sout2807,atla1278,seso1234,FALSE,sot,NA,NA,0,0,2,LS ZA
+Susu,SUS,sus,susu1250,Susu,language,Africa,10.4046,-13.3628,susu1250,mand1469,susu1249,FALSE,sus,NA,NA,0,0,0,GN GW SL SN
+Svan,SVA,sva,svan1243,Svan,language,Eurasia,42.9134,42.5915,svan1243,kart1248,kart1248,FALSE,sva,NA,NA,0,0,4,GE RU
+Swahili,SWH,swh,swah1253,Swahili,language,Africa,-8.25605,37.624,swah1253,atla1278,momb1256,FALSE,swh,NA,NA,0,0,13,BI KE MZ RW SO TZ UG
+Swedish,SWE,swe,swed1254,Swedish,language,Eurasia,59.800634,17.389526,swed1254,indo1319,east2781,FALSE,swe,NA,NA,0,0,4,AX DK FI NO SE
+Tagalog,TGL,tgl,taga1270,Tagalog,language,Papunesia,14.06,121.747,taga1270,aust1307,taga1269,FALSE,tgl,NA,NA,0,0,8,PH
+Tahitian,TAH,tah,tahi1242,Tahitian,language,Papunesia,-17.6485,-149.45,tahi1242,aust1307,tahi1244,FALSE,tah,NA,NA,0,0,0,PF
+Tamil,TAM,tam,tami1289,Tamil,language,Eurasia,10.520219,78.825989,tami1289,drav1251,tami1300,FALSE,tam,NA,NA,0,0,18,IN LK
+Tee,TKQ,tkq,teee1242,Tee,language,Africa,4.73213,7.37553,teee1242,atla1278,taik1252,FALSE,tkq,NA,NA,0,0,0,NG
+Telugu,TEL,tel,telu1262,Telugu,language,Eurasia,16.4529,78.7024,telu1262,drav1251,telu1265,FALSE,tel,NA,NA,0,0,18,IN
+Thai,THA,tha,thai1261,Thai,language,Eurasia,14.192,100.671,thai1261,taik1256,laot1235,FALSE,tha,NA,NA,0,0,1,KH MM TH
+"Thai, Northern",NOD,nod,nort2740,Northern Thai,language,Eurasia,18.857495,100.20739,nort2740,taik1256,sout2744,FALSE,nod,NA,NA,0,0,3,LA MM TH
+Themne,TEM,tem,timn1235,Timne,language,Africa,8.90294,-12.3331,timn1235,atla1278,temn1245,FALSE,tem,NA,NA,0,0,11,GN SL
+Tibetan,BOD,bod,tibe1272,Tibetan,language,Eurasia,28.3681,90.1872,tibe1272,sino1245,cent2346,FALSE,bod,NA,NA,0,0,16,BT CN IN NP
+Tigrigna,TIR,tir,tigr1271,Tigrinya,language,Africa,15.3359,38.9266,tigr1271,afro1255,ethi1244,FALSE,tir,NA,NA,0,0,2,DJ ER ET SD
+Titan,TTV,ttv,tita1241,Titan,language,Papunesia,-2.18168,146.888,tita1241,aust1307,koro1314,FALSE,ttv,NA,NA,0,0,0,PG
+Tiv,TIV,tiv,tivv1240,Tiv,language,Africa,6.88039,9.26287,tivv1240,atla1278,tivi1234,FALSE,tiv,NA,NA,0,0,11,CM NG
+Tiwi,TIW,tiw,tiwi1244,Tiwi,language,Australia,-11.6308,130.949,tiwi1244,NA,NA,FALSE,tiw,NA,NA,0,0,0,AU
+Toda,TCX,tcx,toda1252,Toda,language,Eurasia,11.4184,77.0168,toda1252,drav1251,tami1293,FALSE,tcx,NA,NA,0,0,0,IN
+Tok Pisin,TPI,tpi,tokp1240,Tok Pisin,language,Papunesia,-9.41971,147.303,tokp1240,indo1319,earl1243,FALSE,tpi,NA,NA,0,0,0,PG
+Tongan,TON,ton,tong1325,Tonga (Tonga Islands),language,Papunesia,-21.17,-175.25,tong1325,aust1307,tong1324,FALSE,ton,NA,NA,0,0,0,TO
+Tsonga,TSO,tso,tson1249,Tsonga,language,Africa,-23.5754,31.8105,tson1249,atla1278,tson1251,FALSE,tso,NA,NA,0,0,11,MZ SZ ZA ZW
+Tsou,TSU,tsu,tsou1248,Tsou,language,Papunesia,23.216,120.787,tsou1248,aust1307,tsou1250,FALSE,tsu,NA,NA,0,0,5,CN TW
+Tübatulabal,TUB,tub,tuba1278,Tübatulabal,language,North America,35.327,-117.163,tuba1278,utoa1244,cali1246,FALSE,tub,NA,NA,0,0,0,US
+Turkish,TUR,tur,nucl1301,Turkish,language,Eurasia,39.8667,32.8667,nucl1301,turk1311,west2406,FALSE,tur,NA,NA,0,0,11,AL AM AZ BG CY GE GR IQ IR MK SY TR
+"Tzotzil, Huixtán",TZU,tzu,tzot1261,"Tzotzil, Huixtán",language,North America,16.64,-92.74,tzot1261,book1242,book1242,TRUE,tzu,NA,NA,0,0,0,MX
+Ubykh,UBY,uby,ubyk1235,Ubykh,language,Eurasia,43.67,39.67,ubyk1235,abkh1242,abkh1242,FALSE,uby,NA,NA,0,0,0,TR
+Ukrainian,UKR,ukr,ukra1253,Ukrainian,language,Eurasia,49.796,29.945,ukra1253,indo1319,ukra1257,FALSE,ukr,NA,NA,0,0,6,BY HU MD PL RO RU SK UA
+Urdu,URD,urd,urdu1245,Urdu,language,Eurasia,25,67,urdu1245,indo1319,hind1270,FALSE,urd,NA,NA,0,0,3,AF BD IN PK
+Urhobo,URH,urh,urho1239,Urhobo,language,Africa,5.31155,5.86148,urho1239,atla1278,sout2805,FALSE,urh,NA,NA,0,0,4,NG
+Vai,VAI,vai,vaii1241,Vai,language,Africa,7.05085,-11.3262,vaii1241,mand1469,vaik1238,FALSE,vai,NA,NA,0,0,0,LR SL
+Venda,VEN,ven,vend1245,Venda,language,Africa,-22.188,29.9523,vend1245,atla1278,nucl1826,FALSE,ven,NA,NA,0,0,7,BW ZA ZW
+Vietnamese,VIE,vie,viet1252,Vietnamese,language,Eurasia,20.681188,105.774071,viet1252,aust1305,viet1251,FALSE,vie,NA,NA,0,0,3,CN LA VN
+Vlaams,VLS,vls,vlaa1240,Western Flemish,language,Eurasia,51.0754,3.11345,vlaa1240,indo1319,sout3292,FALSE,vls,NA,NA,0,0,7,BE FR NL
+Wa,WBM,wbm,nucl1290,Zhenkang Wa,language,Eurasia,23.1024,99.108,nucl1290,aust1305,waaa1245,FALSE,wbm,NA,NA,0,0,6,CN MM
+Wahgi,WGI,wgi,nucl1620,Wahgi,language,Papunesia,-6.11629,144.665,nucl1620,nucl1709,wahg1249,FALSE,wgi,NA,NA,0,0,5,PG
+Waray-Waray,WAR,war,wara1300,Waray (Philippines),language,Papunesia,11.4911,125.012,wara1300,aust1307,sama1315,FALSE,war,NA,NA,0,0,3,PH
+Wari,PAV,pav,wari1268,Wari',language,South America,-10.69948,-64.56152,wari1268,chap1271,wari1267,FALSE,pav,NA,NA,0,0,0,BR
+Warlpiri,WBP,wbp,warl1254,Warlpiri,language,Australia,-20.1008,131.05,warl1254,pama1250,ngar1289,FALSE,wbp,NA,NA,0,0,7,AU
+Welsh,CYM,cym,wels1247,Welsh,language,Eurasia,52,-4,wels1247,indo1319,oldm1247,FALSE,cym,NA,NA,0,0,3,AR GB
+Wikmungkan,WIM,wim,wikm1247,Wik-Mungkan,language,Australia,-13.98051,141.81611,wikm1247,pama1250,mung1277,FALSE,wim,NA,NA,0,0,0,AU
+Wolof,WOL,wol,nucl1347,Wolof,language,Africa,15.2534,-15.383,nucl1347,atla1278,wolo1247,FALSE,wol,NA,NA,0,0,8,GM GW ML MR SN
+Xhosa,XHO,xho,xhos1239,Xhosa,language,Africa,-31.0389,28.0769,xhos1239,atla1278,ngun1267,FALSE,xho,NA,NA,0,0,13,BW LS ZA
+!Xóõ,NMN,nmn,huaa1248,East Taa,language,Africa,-24.20022,20.79583,huaa1248,tuuu1241,taaa1242,FALSE,nmn,NA,NA,0,0,0,BW NA
+!Xũ,KTZ,ktz,juho1239,South-Eastern Ju,language,Africa,-19.688,20.7673,juho1239,kxaa1236,juku1256,FALSE,ktz,NA,NA,0,0,3,BW NA
+Yakima,YAK,yak,yaki1237,Northwest Sahaptin,language,North America,46.2655,-120.756,yaki1237,saha1239,nort1527,FALSE,yak,NA,NA,0,0,2,US
+Yanyuwa (Yanula),JAO,jao,yany1243,Yanyuwa,language,Australia,-15.7621,136.055,yany1243,pama1250,ngar1290,FALSE,jao,NA,NA,0,0,0,AU
+Yeyi,YEY,yey,yeyi1239,Yeyi,language,Africa,-18.9178,23.6088,yeyi1239,atla1278,cent2260,FALSE,yey,NA,NA,0,0,2,BW NA
+Yi,III,iii,sich1238,Sichuan Yi,language,Eurasia,28.1947,102.121,sich1238,sino1245,nasu1236,FALSE,iii,NA,NA,0,0,5,CN
+Yiddish,YDD,ydd,east2295,Eastern Yiddish,language,Eurasia,51.75,19.42,east2295,indo1319,schl1237,FALSE,ydd,NA,NA,0,0,12,AR AU BE BY CA CR EE HU IL LT LV MD PA PL PR RO RU SE UA US UY ZA
+Yindjibarndi,YIJ,yij,yind1247,Yindjibarndi,language,Australia,-21.5379,117.001,yind1247,pama1250,yind1249,FALSE,yij,NA,NA,0,0,0,AU
+Yoruba,YOR,yor,yoru1245,Yoruba,language,Africa,7.15345,3.67225,yoru1245,atla1278,lucu1239,FALSE,yor,NA,NA,0,0,20,BJ NG
+"Zapotec, Tlacolulita",ZPK,zpk,tlac1240,Tlacolulita Zapotec,language,North America,16.2971,-95.7414,tlac1240,otom1299,amat1239,FALSE,zpk,NA,NA,0,0,0,MX
+Zulu,ZUL,zul,zulu1248,Zulu,language,Africa,-28.9,30.2,zulu1248,atla1278,ngun1267,FALSE,zul,NA,NA,0,0,5,BW LS MZ SZ ZA

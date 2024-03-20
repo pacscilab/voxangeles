@@ -95,11 +95,11 @@ procedure processPhoneTier
 
 		appendFile: outfile$, dir$, sep$, basename$, sep$, label$, sep$, phon$, sep$, prec$, sep$, foll$, sep$, string$(p), sep$
 
-		# round values to 2 decimal points
-		start$ = fixed$(start, 2)
-		end$ = fixed$(end, 2)
-		word_start$ = fixed$(word_start, 2)
-		word_end$ = fixed$(word_end, 2)
+		# round values to 4 decimal points
+		start$ = fixed$(start, 4)
+		end$ = fixed$(end, 4)
+		word_start$ = fixed$(word_start, 4)
+		word_end$ = fixed$(word_end, 4)
 		
 		appendFile: outfile$, start$, sep$, end$, sep$, word_start$, sep$, word_end$, newline$
 	endif

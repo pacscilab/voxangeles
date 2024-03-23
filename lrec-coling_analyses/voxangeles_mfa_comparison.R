@@ -1,13 +1,13 @@
 library(readr)
 
-glottolog_dir <- "/Users/eleanorchodroff/Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My\ Drive/ucla_phonetic_corpus/ucla_archive_metadata/"
+glottolog_dir <- "~/Documents/GitHub/voxangeles/lrec-coling_analyses/map/"
 # change out with durations file
-hand <- read_delim("Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My Drive/ucla_phonetic_corpus/analysis/data_camera/voxangeles_durations.tsv", 
+hand <- read_delim("~/Documents/GitHub/voxangeles/data/phonetic_measurements/voxangeles_durations.tsv", 
                 delim = "\t", escape_double = FALSE, 
                 locale = locale(encoding = "utf-16"), 
                 trim_ws = TRUE)
-mfa <- read_delim("Desktop/mfa_alignments.tsv", delim = "\t", escape_double = FALSE, trim_ws = TRUE)
-phones <- read_csv("Desktop/unique_phones_class.csv")
+mfa <- read_delim("~/Documents/GitHub/voxangeles/lrec-coling_analyses/mfa_alignments.tsv", delim = "\t", escape_double = FALSE, trim_ws = TRUE)
+phones <- read_csv("~/Documents/GitHub/voxangeles/lrec-coling_analyses/unique_phones_class.csv")
 
 length(unique(hand$lang))
 length(unique(hand$file))
@@ -32,12 +32,18 @@ phones$class <- ifelse(phones$class %in% c("tap", "trill"), "stop", phones$class
 hand <- left_join(hand, phones, by = "phone")
 
 # get summary of files per language: 20 to 162 files per language with a median of 49 files
-hand_counts <- hand %>% group_by(lang) %>% summarise(count = length(unique(file)))
-summary(hand_counts$count)
+hand_counts <- hand %>% 
+  group_by(lang) %>% 
+  summarise(count_files = length(unique(file)),
+            count_phones = length(unique(phone)))
+summary(hand_counts$count_files)
+summary(hand_counts$count_phones)
 
 # phone and natural class information
 length(unique(hand$phone))
-per_class <- hand %>% group_by(class) %>% summarise(count = length(unique(phone)))
+per_class <- hand %>% 
+  group_by(class) %>% 
+  summarise(count = length(unique(phone)))
 
 # language family information
 ucla <- read_csv(paste0(glottolog_dir, 'ucla_metadata.csv'))
@@ -57,13 +63,14 @@ hand <- left_join(hand, fams, by = "family_id")
 
 # get number of families
 length(unique(hand$family))
+
 per_family <- hand %>% 
   group_by(family) %>% 
   summarise(langs = length(unique(lang)),
             files = length(unique(file)))
 
 ### COMPARE WITH MFA
-
+hand$lang_word <- paste(hand$lang, hand$word, sep = "_")
 mfa$lang_word <- paste(mfa$lang, mfa$word, sep = "_")
 
 # add one to MFA interval number for words that have phone intervals starting at 1 
@@ -128,8 +135,9 @@ hand_tmp <- hand %>%
 mfa_hand <- merge(mfa, hand_tmp, by = c("lang", "file", "word", "lang_word", "phone", "int")) 
 colnames(mfa_hand) <- c("lang", "file", "word", "lang_word", "phone", "int", 
                    "mfa_wstart", "mfa_wend", "mfa_pstart", "mfa_pend", 
-                   "update_int", "hand_wstart", "hand_wend", "hand_pstart", "hand_pend", 
-                   "class")
+                   "update_int", "prec", "foll", 
+                   "hand_pstart", "hand_pend", "hand_wstart", "hand_wend", 
+                   "class", "voice")
 
 
 # several cases where phones might have been deleted or changed 
@@ -147,7 +155,10 @@ summary(mfa_hand$diff)
 # mean of the mean 24.5, median of the mean: 22 ms, range of means: 0 to 108
 per_lang_diff <- mfa_hand %>% 
   group_by(lang) %>% 
-  summarise(med = median(diff), mean = mean(diff), min = mean(diff), max = max(diff))
+  summarise(med = median(diff), 
+            mean = mean(diff), 
+            min = mean(diff), 
+            max = max(diff))
 summary(per_lang_diff$med)
 summary(per_lang_diff$mean)
 
@@ -160,6 +171,9 @@ nrow(subset(mfa_hand, diff < 10)) / nrow(mfa_hand)
 # get percent of boundaries within 5 ms: 45% 
 nrow(subset(mfa_hand, diff < 5)) / nrow(mfa_hand)
 
+# get percent of boundaries with no change
+nodiff <- subset(mfa_hand, diff == 0)
+nrow(nodiff) / nrow(mfa_hand)
 
 mfa_hand$class <- factor(mfa_hand$class, levels = c("fric", "nasal", "stop", "vowel", "approx"))
 contrasts(mfa_hand$class) <- contr.sum(5)
@@ -172,5 +186,4 @@ contrasts(mfa_hand$annotator) <- contr.sum(2)
 fit <- lmer(diff ~ class + annotator + (1 | lang), mfa_hand)
 summary(fit)
 
-nodiff <- subset(mfa_hand, diff == 0)
 

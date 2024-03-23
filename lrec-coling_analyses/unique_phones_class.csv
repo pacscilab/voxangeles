@@ -203,6 +203,7 @@ ĭ,vowel,vcd
 ī,vowel,vcd
 i̯,vowel,vcd
 i̠,vowel,vcd
+i̙,vowel,vcd
 ị,vowel,vcd
 i̥,vowel,vcd
 ḭ,vowel,vcd
@@ -327,10 +328,12 @@ nˀ,nasal,vcd
 o,vowel,vcd
 õ,vowel,vcd
 ø,vowel,vcd
+ō,vowel,vcd
 o̜,vowel,vcd
 o̠,vowel,vcd
 o̝,vowel,vcd
 o̞,vowel,vcd
+o̙,vowel,vcd
 ō̜,vowel,vcd
 ọ,vowel,vcd
 o̤,vowel,vcd
@@ -489,6 +492,7 @@ u,vowel,vcd
 ū,vowel,vcd
 u̝,vowel,vcd
 u̞,vowel,vcd
+u̙,vowel,vcd
 ụ,vowel,vcd
 ṳ,vowel,vcd
 u̥,vowel,vcl
@@ -534,6 +538,7 @@ w,approx,vcd
 w̃,approx,vcd
 w̝,approx,vcd
 w̜,approx,vcd
+w̰,approx,vcd
 w',approx,vcd
 wː,approx,vcd
 w͡a,approx,vcd

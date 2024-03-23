@@ -7,10 +7,10 @@ require(tidyverse)
 require(lme4)
 
 # where's the data?
-analysis_dir <- "/Users/eleanorchodroff/Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My\ Drive/ucla_phonetic_corpus/analysis/"
+analysis_dir <- "/Users/eleanorchodroff/Documents/Github/voxangeles/lrec-coling_analyses/"
 
 # read in dataset
-d <- read_delim(paste0(analysis_dir, "ucla_f0.tsv"), delim = "\t", escape_double = FALSE, locale = locale(encoding = "UTF-16"), trim_ws = TRUE)
+d <- read_delim(paste0(analysis_dir, "voxangeles_f0_quartiles.tsv"), delim = "\t", escape_double = FALSE, locale = locale(encoding = "UTF-16"), trim_ws = TRUE)
 
 # read in natural class (manner and voice) information
 class <- read_csv(paste0(analysis_dir, "unique_phones_class.csv"))
@@ -44,7 +44,8 @@ d$family_id <- ifelse(d$lang == "eus", "basq1248", d$family_id)
 d <- left_join(d, fams, by = "family_id")
 
 # remove extra columns
-d <- d %>% select(-c("markup_description", "description", "child_family_count", "child_language_count", "child_dialect_count"))
+d <- d %>% 
+  select(-c("markup_description", "description", "child_family_count", "child_language_count", "child_dialect_count"))
 
 # remove vowel types with less than 10 tokens
 phone_counts <- d %>% 
@@ -55,6 +56,8 @@ phone_counts <- d %>%
 d <- merge(d, phone_counts, by = "phone")
 d <- subset(d, count >= 10)
 
+# remove devoiced vowels
+d <- subset(d, phone != "u̥")
 # create broad vowel categories
 d$broad <- ifelse(grepl(("a|æ|a|ɑ"), d$phone), "a", 
                   ifelse(grepl("i|y|ɪ|ɨ|ʏ", d$phone), "i", "u"))

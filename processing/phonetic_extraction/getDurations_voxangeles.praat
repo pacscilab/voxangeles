@@ -7,11 +7,12 @@
 ### CHANGE ME ###
 
 # Specify the directory with the list of language-specific folders containing TextGrids
-directories$ = "/Users/eleanor/Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My Drive/ucla_phonetic_corpus/ucla_data_aligned/"
+directories$ = "/Users/eleanor/Desktop/ucla/"
 
-# If the TextGrids are in a subfolder within each langauge-specific folder, specify the name here
-# otherwise set name_of_dir$ = ""
-name_of_dir$ = "/hand_aligned/"
+# If the TextGrids are in a subfolder within each langauge-specific folder, 
+# specify the name here, like name_of_dir$ = "hand_aligned/
+# otherwise set name_of_dir$ = "/"
+name_of_dir$ = "/"
 
 # Specify the output file
 outfile$ = "/Users/eleanor/Desktop/voxangeles_durations.tsv"
@@ -30,8 +31,8 @@ nLangs = Get number of strings
 for i from 1 to nLangs
 	selectObject: "Strings dirs"
 	dir$ = Get string: i
-
-	Create Strings as file list: "files", directories$ + dir$ + name_of_dir$ + "*.TextGrid"
+	
+	Create Strings as file list: "files", directories$ + dir$ + "/" + name_of_dir$ + "*.TextGrid"
 	nFiles = Get number of strings
 
 	for j from 1 to nFiles
@@ -48,7 +49,7 @@ procedure processFile
 	filename$ = Get string: j
 	basename$ = filename$ - ".TextGrid"
 
-	Read from file: directories$ + dir$ + name_of_dir$ + filename$
+	Read from file: directories$ + dir$ + "/" + name_of_dir$ + filename$
 	nIntWord = Get number of intervals: 1
 
 	for k from 1 to nIntWord

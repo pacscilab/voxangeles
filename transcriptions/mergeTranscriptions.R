@@ -9,14 +9,14 @@
 
 require(tidyverse)
 
-d <- read_delim("Desktop/voxangeles_transcriptions_updated_only.tsv", 
+d <- read_delim("./voxangeles_transcriptions_updated_only.tsv", 
                 delim = "\t", escape_double = FALSE, 
                 locale = locale(encoding = "utf-16"), 
                 trim_ws = TRUE)
 
 raw <- data.frame()
 
-mydir <- "Library/CloudStorage/GoogleDrive-eleanor.chodroff@gmail.com/My Drive/ucla_phonetic_corpus/forced_alignment/ucla_data/"
+mydir <- "./cmu_ucla_text_files/"
 langs <- list.files(mydir, pattern = "[a-z]*")
 raw <- data.frame()
 intermediate <- data.frame()
@@ -37,4 +37,4 @@ d$intermediate1 <- d$intermediate
 d$intermediate2 <- gsub(" ", "", d$intermediate)
 d <- d %>% select(lang, file, raw, intermediate1, intermediate2, updated)
 
-write.table(d, "~/Desktop/voxangeles_transcriptions.tsv", sep = "\t", quote = F, row.names = F)
+write.table(d, "./voxangeles_transcriptions.tsv", sep = "\t", quote = F, row.names = F)
